@@ -31,6 +31,7 @@ group :test do
   gem 'database_cleaner', '0.7.0'
   gem 'spork', '0.9.2'
   gem 'guard-spork', '1.2.0'
+  gem 'webrat'
   # gem 'launchy', '2.1.0'
   # gem 'rb-fsevent', '0.9.1', :require => false
   # gem 'growl', '1.0.3'
